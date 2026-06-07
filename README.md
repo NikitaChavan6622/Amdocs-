@@ -1,5 +1,5 @@
 # Amdocs-
-This is first GIT repository 
-Nikita 
+This is first GIT repository .
+Author : Nikita 
 
 
